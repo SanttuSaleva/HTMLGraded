@@ -1,0 +1,5 @@
+Sup, Santtu here.
+I would've implemented actual JS functionality for these pages, especially the shopping cart
+had I not caught the influenza and been writing this in a fever pitch of 39 degrees.
+
+Alas, cant win em all.
