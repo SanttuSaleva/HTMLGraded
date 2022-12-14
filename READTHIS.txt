@@ -1,6 +1,6 @@
 Sup, Santtu here.
 
-The link to the pages is https://santtusaleva.github.io/HTMLGraded/
+The link to the pages is https://santtusaleva.github.io/HTMLGraded/  Add products or cart at the end to see the other views.
 
 I would've implemented actual JS functionality for these pages, especially the shopping cart
 had I not caught the influenza and been writing this in a fever pitch of 39 degrees.
